@@ -1,0 +1,7 @@
+{
+    "values" : [
+        "player_motion:internal/technical/load",
+        "rpg:load",
+        "climbing:config"
+    ]
+}
